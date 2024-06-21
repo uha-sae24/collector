@@ -1,4 +1,4 @@
 # collector
 ## requirements
-paho-mqtt module
+paho-mqtt module   
 mqtt cli client
